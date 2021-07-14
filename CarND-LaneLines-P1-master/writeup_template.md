@@ -2,6 +2,11 @@
 
 ## Writeup Template
 
+### precondition
+pip install MoviePy
+
+pip install requests
+
 ### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
 
 ---
@@ -45,3 +50,9 @@ Another shortcoming could be ...
 A possible improvement would be to ...
 
 Another potential improvement could be to ...
+
+### 4. TBD
+
+### 5 Reference
+https://blog.csdn.net/baidu_39415947/article/details/80367614
+https://zhuanlan.zhihu.com/p/37528706
